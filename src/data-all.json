@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "name": "Nicholas Stull",
+    "title": "Technical Support Specialist",
+    "website": "https://tinkernerd.dev",
+    "location": "Berrien Springs, MI",
+    "email": "Nicholasp.stull@gmail.com",
+    "phone": "+1 (269) 487-7564",
+    "bio": "IT professional with expertise in troubleshooting, scripting, and system administration. Skilled in PowerShell, Python, and Docker, with experience in networking, server management, and home lab environments. Passionate about automation, documentation, and user support."
+  },
+  "education": [
+    {
+      "institution": "Southwestern Michigan College",
+      "location": "Dowagiac, MI",
+      "area": "Information Technology - Networking",
+      "degreeType": "Associates in Applied Science",
+      "endDate": "2024"
+    }
+  ],
+  "work": [
+    {
+      "company": "Southwestern Michigan College",
+      "position": "Help Desk Technician",
+      "location": "Dowagiac, MI",
+      "startDate": "October, 2021",
+      "endDate": "November, 2024",
+      "highlights": [
+      "Developed and maintained a maintaince and provisioning PowerShell script for re-provisioning and configuring loaner computers",
+      "Provided level 1 and 2 technical support for students, faculty, and staff",
+      "Delivered AV support, break/fix services, and handled installations across campus.",
+      "Managed printer setups, troubleshooting, and repairs for Dell, Lenovo, and HP devices",
+      "Supported daily operations with knowledge of MS desktop applications, Intel, and Apple systems.",
+      "Delivered excellent customer service, maintaining strong troubleshooting and organizational skills.",
+      "Collaborated with teams to assist in event setup, closure, and ongoing campus-wide support."
+      ]
+    },
+    {
+      "company": "Martins Supermarket",
+      "position": "Cashier",
+      "location": "Stevensville, MI",
+      "startDate": "December, 2020",
+      "endDate": "December, 2021",
+      "highlights": [
+      "Provided customer service and handled transactions in fast-paced environments.",
+      "Adapted to high-pressure situations, ensuring smooth operations.",
+      "Balanced cashier duties with customer service tasks and issue resolution."
+      ]
+    }
+  ],
+"skills": [
+  {
+    "name": "Programming & Scripting",
+    "keywords": ["Python", "JavaScript"]
+  },
+  {
+    "name": "Systems, Networking & Server Management",
+    "keywords": ["Windows", "Linux", "Microsoft Windows Server", "Active Directory", "DHCP", "TCP/IP", "DNS", "LAN", "remote access software", "network support"]
+  },
+  {
+    "name": "Microcontrollers & Development Boards",
+    "keywords": ["ESP32s", "Arduinos", "Raspberry Pi Picos", "Raspberry Pis"]
+  },
+  {
+    "name": "Software & Tools",
+    "keywords": ["VMware", "CAD", "Adobe suite", "Docker", "Git", "automation services"]
+  },
+  {
+    "name": "Troubleshooting & IT Support",
+    "keywords": ["Desktop support", "help desk", "software troubleshooting", "IT support", "customer support"]
+  },
+  {
+    "name": "Design, Documentation & Organization",
+    "keywords": ["Graphic design", "Documentation", "technical documentation", "program documentation", "organizational skills"]
+  }
+],
+  "projects": [
+    {
+      "description": "Home Network Lab",
+      "url": "https://github.com/tinkernerd/oppenheimer",
+      "name": "Oppenheimer - Home Network Lab",
+      "repo": "tinkernerd/oppenheimer",
+      "stars": "0"
+    },
+    {
+      "description": "maintaince and provisioning PowerShell script for re-provisioning and configuring loaner computers ",
+      "url": "https://github.com/tinkernerd/Loaner-Updater",
+      "name": "Loaner Management",
+      "repo": "tinkernerd/Loaner-Updater",
+      "stars": "0"
+    },
+    {
+      "description": "A Raspberry pi powered Digital Signage system",
+      "url": "https://github.com/tinkernerd/RaspiDigiDisplay",
+      "name": "RaspiDigiDisplay",
+      "repo": "tinkernerd/RaspiDigiDisplay",
+      "stars": "0"
+    }
+  ],
+  "certifications" : [
+  {
+    "name": "Comptia A+",
+    "issueDate": "2023-12-21",
+    "issuer": "Comptia"
+  },
+  {
+    "name": "IT Fundamentals (ITF+)",
+    "issueDate": "2021-05-04",
+    "issuer": "Comptia"
+  }
+]
+}
