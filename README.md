@@ -2,7 +2,7 @@
 
 A straightforward resume or CV template for the web, print, or PDF. Built with [Astro](https://astro.build) and [PandaCSS](https://panda-css.com).
 
-> [View demo](https://webpage-pdf-resume.vercel.app)
+> [View demo](https://resume.tinkernerd.dev)
 
 ## Features
 
