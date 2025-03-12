@@ -33,6 +33,18 @@
       "Delivered excellent customer service, maintaining strong troubleshooting and organizational skills.",
       "Collaborated with teams to assist in event setup, closure, and ongoing campus-wide support."
       ]
+    },
+    {
+      "company": "Martins Supermarket",
+      "position": "Cashier",
+      "location": "Stevensville, MI",
+      "startDate": "December, 2020",
+      "endDate": "December, 2021",
+      "highlights": [
+      "Provided customer service and handled transactions in fast-paced environments.",
+      "Adapted to high-pressure situations, ensuring smooth operations.",
+      "Balanced cashier duties with customer service tasks and issue resolution."
+      ]
     }
   ],
 "skills": [
@@ -70,6 +82,13 @@
       "stars": "0"
     },
     {
+      "description": "maintaince and provisioning PowerShell script for re-provisioning and configuring loaner computers ",
+      "url": "https://github.com/tinkernerd/Loaner-Updater",
+      "name": "Loaner Management",
+      "repo": "tinkernerd/Loaner-Updater",
+      "stars": "0"
+    },
+    {
       "description": "A Raspberry pi powered Digital Signage system",
       "url": "https://github.com/tinkernerd/RaspiDigiDisplay",
       "name": "RaspiDigiDisplay",
@@ -81,6 +100,11 @@
   {
     "name": "Comptia A+",
     "issueDate": "2023-12-21",
+    "issuer": "Comptia"
+  },
+  {
+    "name": "IT Fundamentals (ITF+)",
+    "issueDate": "2021-05-04",
     "issuer": "Comptia"
   }
 ]
